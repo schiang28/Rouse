@@ -1,0 +1,447 @@
+
+Sophie Chiang
+General Information
+BOLL TIMO
+MENGEL STEFFEN
+3
+:
+0
+11:3
+17:15
+11:8
+BOLL
+TIMO
+MENGEL
+STEFFEN
+GENERAL INFORMATION
+DATE AND TIME
+August 20, 2021, 22:00 GMT+3
+LOCATION
+TTBL
+ATHLETES GAME INFO
+RACKET HAND
+Left-handed
+Right-handed
+ATHLETES PERSONAL INFO
+RATING
+10
+142
+REGION
+GER
+GER
+HEIGHT
+181
+195
+AGE
+40 (08.03.1981)
+33 (02.08.1988)
+DURATION
+TOTAL DURATION
+25 min 21 sec
+PLAY TIME
+3 min 40 sec
+Strokes Analysis
+BOLL TIMO
+MENGEL STEFFEN
+STROKES
+TOTAL NUMBER OF STROKES
+367 strokes
+STROKES BY GAMES
+1st game
+81 strokes
+
+2nd game
+149 strokes
+
+3rd game
+137 strokes
+
+WINNINGS
+20
+51.2% on service
+19
+48.7% on receive
+12
+46.1% on service
+14
+53.8% on receive
+ERROR TYPE
+8
+30.7% Net
+12
+46.1% Out
+5
+19.2% Outright
+1
+3.8% service error
+10
+25.6% Outright
+11
+28.2% Net
+18
+46.1% Out
+WINNINGS IN SHORT/LONG RALLY
+7
+17.9% short rally
+32
+82% long rally
+7
+26.9% short rally
+19
+73% long rally
+LOSES IN SHORT/LONG RALLY
+7
+26.9% short rally
+19
+73% long rally
+7
+17.9% short rally
+32
+82% long rally
+STROKES SIDE
+125
+69% forehand
+56
+30.9% backhand
+125
+67.2% forehand
+61
+32.7% backhand
+STROKE SIDE (WITHOUT SERVICE)
+125
+69% forehand
+56
+30.9% backhand
+125
+67.2% forehand
+61
+32.7% backhand
+STROKE SIDE (REMAINS IN THE GAME)
+83
+71.5% forehand
+33
+28.4% backhand
+81
+66.3% forehand
+41
+33.6% backhand
+WINNING STROKES SIDE
+26
+66.6% forehand
+13
+33.3% backhand
+17
+68% forehand
+8
+32% backhand
+LOSING STROKES SIDE
+16
+61.5% forehand
+10
+38.4% backhand
+27
+69.2% forehand
+12
+30.7% backhand
+ALL STROKES
+99
+54.6%
+29
+16%
+15
+8.2%
+0
+0%
+3
+1.6%
+0
+0%
+0
+0%
+0
+0%
+1
+0.5%
+0
+0%
+0
+0%
+34
+18.7%
+81
+43.5%
+25
+13.4%
+26
+13.9%
+12
+6.4%
+1
+0.5%
+0
+0%
+0
+0%
+10
+5.3%
+0
+0%
+0
+0%
+0
+0%
+31
+16.6%
+Top spin
+Push
+Block
+Flick
+Lob
+Smash
+Drop
+Banana flick
+Chop-block
+Pending
+Serve
+WINNING STROKES
+29
+74.3%
+4
+10.2%
+2
+5.1%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+4
+10.2%
+17
+68%
+1
+4%
+1
+4%
+1
+4%
+0
+0%
+0
+0%
+0
+0%
+3
+12%
+0
+0%
+0
+0%
+0
+0%
+2
+8%
+LOSING STROKES
+18
+69.2%
+2
+7.6%
+4
+15.3%
+0
+0%
+1
+3.8%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+1
+3.8%
+0
+0%
+0
+0%
+21
+53.8%
+2
+5.1%
+10
+25.6%
+4
+10.2%
+1
+2.5%
+0
+0%
+0
+0%
+1
+2.5%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Top spin
+Push
+Block
+Flick
+Lob
+Smash
+Drop
+Banana flick
+Chop-block
+Pending
+Serve
+STROKES BY ERROR TYPE
+Top spin	3	8	7	0
+Push	0	1	1	0
+Block	2	2	0	0
+Flick	0	0	0	0
+Lob	0	1	0	0
+Smash	0	0	0	0
+Drop	0	0	0	0
+Banana flick	0	0	0	0
+Chop-block	0	0	0	0
+Pending	0	0	0	0
+Total	0	0	0	0
+Short service	0	0	0	0
+Long service	0	0	0	0
+Half long service	0	0	0	0
+Serve	0	0	0	0
+Total	5	12	8	0
+Top spin	6	10	5	0
+Push	0	2	0	0
+Block	4	2	4	0
+Flick	0	3	1	0
+Lob	0	0	1	0
+Smash	0	0	0	0
+Drop	0	0	0	0
+Banana flick	0	1	0	0
+Chop-block	0	0	0	0
+Pending	0	0	0	0
+Total	0	0	0	0
+Short service	0	0	0	0
+Long service	0	0	0	0
+Half long service	0	0	0	0
+Serve	0	0	0	0
+Total	10	18	11	0
+ON SERVICE
+TOTAL
+1
+2
+3
+4
+5
+6
+7
+8
+BOLL TIMO
+20
+4
+8
+2
+2
+1
+3
+0
+0
+WINS IN SHORT RALLY
+
+4
+
+WINS IN LONG RALLY
+
+16
+
+MENGEL STEFFEN
+12
+2
+5
+5
+0
+0
+0
+0
+0
+WINS IN SHORT RALLY
+
+2
+
+WINS IN LONG RALLY
+
+10
+
+ON RECEIVE
+TOTAL
+1
+2
+3
+4
+5
+6
+7
+8
+BOLL TIMO
+19
+3
+9
+5
+1
+1
+0
+0
+0
+WINS IN SHORT RALLY
+
+3
+
+WINS IN LONG RALLY
+
+16
+
+MENGEL STEFFEN
+14
+5
+5
+1
+1
+0
+0
+0
+2
+WINS IN SHORT RALLY
+
+5
+
+WINS IN LONG RALLY
+
+9
+
